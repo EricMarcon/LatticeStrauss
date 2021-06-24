@@ -2,8 +2,8 @@
 
 Formats:
 
-- [HTML](Exploration.html)
-- [PDF](Exploration.pdf)
+- [HTML](https://ericmarcon.github.io/LatticeStrauss/Exploration.html)
+- [PDF](https://ericmarcon.github.io/LatticeStrauss/Exploration.pdf)
 
 
 
